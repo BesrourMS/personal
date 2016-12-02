@@ -127,7 +127,7 @@
 			<div class="fh5co-tab-content" data-content="4">
 				<div class="fh5co-content-inner">
 					<div class="row">
-						{% for percent,name in meta.skill %}
+						{% for name,percent in meta.skill %}
 						<div class="col-md-4 col-sm-6 col-xs-12 text-center">
 							<div class="chart" data-percent="{{ percent }}"><span><strong>{{ name }}</strong>{{ percent }}%</span></div>
 						</div>

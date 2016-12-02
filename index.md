@@ -18,10 +18,10 @@ Exp:
   2012 - 2013 : Tunisie Telecom: Sales Agent
   2013 - Present: TangoRythm : Wordpress & Front-End Developer
 Skill:
-  85: HTML5
-  75: CSS3
-  65: PHP
-  80: jQuery
-  70: Wordpress
-  60: Pico CMS
+  HTML5 : 85
+  CSS3 : 75
+  PHP : 65
+  jQuery : 80
+  Wordpress : 70
+  Pico CMS : 60
 ---
