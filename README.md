@@ -7,10 +7,4 @@ Download the personal folder, extract it to the themes folder of your Pico insta
 
 For the content download our `index.md`, upload it in the content folder and make your changes.
 
-#### Demo: http://freehtml5.co/demos/personal/
-
-### Screenshot
-![Personal Screenshot](http://img11.hostingpics.net/pics/484766personal1.png)
-![Personal Screenshot](http://img11.hostingpics.net/pics/344976personal2.png)
-![Personal Screenshot](http://img11.hostingpics.net/pics/411713personal3.png)
-![Personal Screenshot](http://img11.hostingpics.net/pics/120669personal4.png)
+#### Demo: [freehtml5.co](https://demos.freehtml5.co/personal/)
